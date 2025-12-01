@@ -9,6 +9,8 @@ You can leave this empty if you don’t want to show any content.
 
 Hi! I'm Thomas the Maker, an Engineer who loves to tinker and build.
 
-This is a collection of tools, robots & applications I built. If you want to build or tinker with something, feel free to give them a try.
+This is a collection of tools, robots & applications I built. The goal of these tools is to allow people to _build things with a sense of optimism._
 
-The goal of these tools is to allow people to _build things with a sense of optimism._
+If you want to build or tinker with something, feel free to give them a try.
+
+Any questions, donations, and collaboration inquiries, lmk at thomas@comfyspace.tech.
