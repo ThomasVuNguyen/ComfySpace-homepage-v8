@@ -13,6 +13,7 @@ export interface SiteInfo {
   author: string
   description: string
   language: string
+  logo?: string // Path to logo image (e.g., '/logo.png')
 }
 
 // General settings configuration type

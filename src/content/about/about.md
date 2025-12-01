@@ -7,10 +7,8 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+Hi! I'm Thomas the Maker, an Engineer who loves to tinker and build.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
+This is a collection of tools, robots & applications I built. If you want to build or tinker with something, feel free to give them a try.
 
-Effortlessly share your thoughts in _a calm & dustless space._
-
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+The goal of these tools is to allow people to _build things with a sense of optimism._
